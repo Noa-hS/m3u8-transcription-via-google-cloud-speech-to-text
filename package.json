@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google-cloud/speech": "^6.7.0",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
